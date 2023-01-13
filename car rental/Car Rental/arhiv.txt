@@ -1,0 +1,10 @@
+Машина:Toyota Yaris
+ИИН:123123123
+Customer Name:Alex
+Car Model:3
+Car Nomer:739YWB08
+Количество дней:20
+Ваша арендная плата составляет:1500
+Caution Money:0
+Advanced:0
+
